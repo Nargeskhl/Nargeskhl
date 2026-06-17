@@ -7,7 +7,7 @@ Frontend Developer
 a Frontend Developer passionate about building modern, user-friendly web. I’m always looking to connect with like-minded developers, collaborate on exciting projects, and learn from others. Feel free to reach out if you want to build something awesome together!
 
 *   ✉️  You can contact me at [narges.khalilollahi@gmail.com](mailto:narges.khalilollahi@gmail.com)
-*   🧠  I'm learning next.js, redux.
+*   🧠  I'm learning nuxt.js.
 *   🤝  I'm open to collaborating on interesting projects
   ### Skills 
 <p align="left">
